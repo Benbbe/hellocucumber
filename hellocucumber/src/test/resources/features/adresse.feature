@@ -32,4 +32,3 @@ Feature: Modification de l'adresse d'un abonné résidant en France sans ou avec
 			|canal|active|pays|condition|
 			|FACE|inactive|France|sans date d’effet|
 			|EC|active|Pologne|avec date d’effet|
-			
